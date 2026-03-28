@@ -2,7 +2,7 @@
 # Global COVID-19 Analytics: End-to-End Data Exploration using SQL & Tableau
 By Lehar Gupta
 
-![Covid19-](https://github.com/mikeolaniyi/Covid19_Vaccination_Analysis_in_SQL/assets/120651356/ab54c8f4-7465-49b9-8502-c9f758497889)
+![Covid19-](https://github.com/potatobites2001/Covid-19-Analysis-in-SQL-/blob/main/covid%2019.jpg?raw=true)
 
 
 - **Brief Introduction**
